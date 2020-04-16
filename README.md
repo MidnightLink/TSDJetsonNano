@@ -48,10 +48,15 @@ sudo apt-get update -y && sudo apt-get upgrade -y
 - After all that is finished, we need to install some dependencies.
 
 sudo apt-get install -y curl 
+
 sudo apt-get install -y python-pip
+
 sudo apt-get install -y python3-pip
+
 sudo apt-get install -y libffi-dev
+
 sudo apt-get install -y python-openssl
+
 
 Now to install Docker-Compose. Since normal install methods are broken as it's not built correctly for ARM64, we will use a precompiled fork.
 
