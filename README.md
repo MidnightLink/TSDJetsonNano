@@ -11,7 +11,7 @@ This is taking into consideration that you are going to run this hooked into a s
 
 Parts/Software list:
 - -Jetson Nano https://developer.nvidia.com/buy-jetson
-- -Power supply (this is what I used) https://www.amazon.com/gp/product/B01N4HYWAM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+- -Power supply (this is what I used) https://www.amazon.com/gp/product/B01N4HYWAM
 - -Micro USB cable
 - -MicroSD Card (I'd recommend 32GB or larger)
 - -MicroSD Adapter
