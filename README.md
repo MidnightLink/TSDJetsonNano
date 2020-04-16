@@ -5,7 +5,7 @@ https://github.com/TheSpaghettiDetective/TheSpaghettiDetective
 The instructions on the official GitHub for doing this are very lacking, and a lot of the commands don't work properly. (docker-compose for example is a MASSIVE pain as it's not native to ARM64, and there are a decent amount of missing dependencies)
 
 I've made this guide as easy as possible, so some things are dumbed down.
-This is all on the consideration that you are going to run this hooked into a spare Ethernet port on your router/switch, and are setting up from a Windows environment (And of course already have the Octoprint plugin installed)
+This is all on the consideration that you are going to run this hooked into a spare Ethernet port on your router/switch, are setting up from a Windows environment, and of course already have the Octoprint plugin installed.
 
 
 
