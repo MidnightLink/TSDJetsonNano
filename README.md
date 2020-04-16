@@ -1,9 +1,11 @@
 # TSDJetsonNano
-Hey all! The other day I decided I wanted to run a dedicated TSD server at my home as I have 4 printers that I want to monitor, and no real want to send out a bunch of info to an unknown server. Looking into the options, and not wanting to have my PC on 24/7, I picked up a Jetson Nano and started working on getting it ready.
-The instructions on the official GitHub for doing this are very lacking, and a lot of the commands don't work properly.  (docker-compose for example is a MASSIVE pain as it's not native to ARM64, and there are a decent amount of missing dependencies) so here is the complete guide on how to set up your own Spaghetti Detective server on a Jetson Nano!
+The following are instructions on how to run The Spaghetti Detective on a Jetson Nano.
+https://github.com/TheSpaghettiDetective/TheSpaghettiDetective 
+
+The instructions on the official GitHub for doing this are very lacking, and a lot of the commands don't work properly. (docker-compose for example is a MASSIVE pain as it's not native to ARM64, and there are a decent amount of missing dependencies)
 
 I've made this guide as easy as possible, so some things are dumbed down.
-This is all on the consideration that you are going to run this hooked into a spare Ethernet port on your router/switch, and are setting up from a Windows environment.
+This is all on the consideration that you are going to run this hooked into a spare Ethernet port on your router/switch, and are setting up from a Windows environment (And of course already have the Octoprint plugin installed)
 
 
 
