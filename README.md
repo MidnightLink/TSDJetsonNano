@@ -13,13 +13,13 @@ Parts/Software list:
 - -Jetson Nano https://developer.nvidia.com/buy-jetson
 - -Power supply (this is what I used) https://www.amazon.com/gp/product/B01N4HYWAM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 - -Micro USB cable
-- -Micro SD Card (I'd recommend 32GB or larger)
-- -Any kind of MicroSD Adapter to plug into your PC
+- -MicroSD Card (I'd recommend 32GB or larger)
+- -MicroSD Adapter
 - -Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/
 - -WinSCP https://winscp.net/eng/index.php
 - -Etcher  https://www.balena.io/etcher/
-- -Modified docker-compose.yml file  https://github.com/MidnightLink/TSDJetsonNano
-- -The latest SD Card Image from here https://developer.nvidia.com/embedded/downloads
+- -Modified docker-compose.yml file (located in this git)
+- -The latest Jetson Nano SD Card Image  https://developer.nvidia.com/embedded/downloads
 - Optional: A case. You can either 3D print one https://www.thingiverse.com/thing:3518410 or purchase one off of Amazon
 
 Before you begin make sure that the jumper on the board is set up to accept the power from the PSU, not from USB. My jumper came already in place but just needed flipped upside-down.
