@@ -18,7 +18,7 @@ Parts/Software list:
 - -Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/
 - -WinSCP https://winscp.net/eng/index.php
 - -Etcher  https://www.balena.io/etcher/
-- -Modified docker-compose.yml file (located in this git)
+- -Modified docker-compose.yml file (located in this repository)
 - -The latest Jetson Nano SD Card Image  https://developer.nvidia.com/embedded/downloads
 - Optional: A case. You can either 3D print one https://www.thingiverse.com/thing:3518410 or purchase one off of Amazon
 
