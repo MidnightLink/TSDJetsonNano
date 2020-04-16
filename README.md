@@ -1,5 +1,5 @@
 # TSDJetsonNano
-The following are instructions on how to run The Spaghetti Detective on a Jetson Nano.
+The following are instructions on how to run The Spaghetti Detective, a machine learning AI program that detects failing prints, on a Jetson Nano.
 https://github.com/TheSpaghettiDetective/TheSpaghettiDetective 
 
 The instructions on the official GitHub for doing this are very lacking, and a lot of the commands don't work properly. (docker-compose for example is a MASSIVE pain as it's not native to ARM64, and there are a decent amount of missing dependencies)
