@@ -30,7 +30,7 @@ Good? Good! Let's start.
 - Flash the Jetson's SD card image using Etcher
 - Put the micro SD back into the Jetson Nano. Plug in your ethernet cable, usb cable, and power cable. I'd make sure the power cable was plugged in last just to be safe.
 - On your PC go to Device Management, then to the Com Ports drop box. You should soon see a port appear if it hadn't already. This is your Jetson's serial port
-- Open up Putty and to connect through serial
+- Open up Putty and connect through serial
 - Change the COM port to the number found in device manager (COM6 for example), change the baud rate to 115200 then click Open
 
 You're now connected through serial port directly to the Nano!
